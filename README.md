@@ -1,4 +1,4 @@
-# 2021_EmbededdPrj_Demo
+# 2021_EmbededdPrj_Demo  
 2021년 임베디드 소프트웨어 경진대회
 (The World Embeded Software Contest 2021)
 1. 프로젝트 기본 정보
@@ -36,16 +36,16 @@
 - Spring framework /  v4.3
 - Maven / v4.0
 - Mosquito / v1.6.9
-- java / jdk_1.8.0_291
-- mongoDB / 4.4.7
+- Java / jdk_1.8.0_291
+- MongoDB / 4.4.7
 - MariaDB / AWS RDS
-- node.js / v14.17.6 (반드시 14이상)
+- Node.js / v14.17.6 (반드시 14이상)
 - Tomcat / v8.5
 - AWS EC2 Ubuntu / 20.LTS
 
 라) 주요 라이브러리 정보
 - MQTT lib / org.eclipse.paho v1.2.2
-- mongo-java-driver / 3.2.2
+- Mongo-java-driver / 3.2.2
 - spring-data-mongodb / 1.9.1.RELEASE
 - Kakao REST API / OAUTH2, SendTalk(개인)
 
